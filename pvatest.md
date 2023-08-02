@@ -1,2 +1,3 @@
-# What size is the moon
-the moon is this big.
+# What size is the moon?
+
+The moon is this big.
