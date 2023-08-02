@@ -1,0 +1,26 @@
+[
+  {
+    "id":10001,
+    "username":"OtherUserName",
+    "entry":"THis is an new entry",
+    "type":"entry"
+  },
+  {
+    "id":10002,
+    "username":"ThirdUserName",
+    "entry":"This is a data entry",
+    "type":"entry"
+  },
+  {
+    "id":10003,
+    "username":"FOurthUsername",
+    "entry":"This is a data entry. There should be no duplicates.",
+    "type":"entry"
+  },
+  {
+    "id":10004,
+    "username":"FifthUserName",
+    "entry":"This data entry is added.",
+    "type":"entry"
+  }
+]
